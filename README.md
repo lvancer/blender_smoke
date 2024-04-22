@@ -3,8 +3,8 @@
 Use Blender to add smoke effect.
 
 1. Download [Blender 2.79](https://download.blender.org/release/Blender2.79/)
-2. place the images you want to add smoke effects to in the image folder.
-3. run the blender command in the folder where you have Blender installed. 
+2. Place the images you want to add smoke effects to in the image folder.
+3. Run the blender command in the folder where you have Blender installed. 
 ```
 blender -b -P smoke.py
 ```
